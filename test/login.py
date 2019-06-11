@@ -9,3 +9,7 @@ def index2()
 	print("index info")
 def index3 ():
 	print("index info")
+def index4 ():
+	print("index info")
+
+
